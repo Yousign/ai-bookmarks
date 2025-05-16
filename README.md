@@ -2,7 +2,7 @@
 
 A curated compilation of Artifical Intelligence resources
 
-## Learning and understanding AI
+## 📚 Learning and understanding AI
 
 ### Books
 
@@ -29,7 +29,7 @@ A curated compilation of Artifical Intelligence resources
 *   **[Nature Machine Intelligence](https://www.nature.com/natmachintell/)** - A journal publishing high-impact research in machine learning and AI. (Subscription often required)
 *   **[Journal of Artificial Intelligence Research (JAIR)](https://www.jair.org/)** - Covers all areas of AI.
 
-## Staying updated: news and communities
+## 📰 Staying updated: news and communities
 
 ### Tech blogs and communities
 
@@ -50,7 +50,7 @@ A curated compilation of Artifical Intelligence resources
 *   **[AI News](https://www.artificialintelligence-news.com/)** - Dedicated AI news site covering a broad range of topics.
 *   **[Analytics Insight](https://www.analyticsinsight.net/)** - Focuses on AI, big data, and analytics news.
 
-## Finding and using AI tools
+## 🛠️ Finding and using AI tools
 
 ### AI tool directories and review sites
 
@@ -64,7 +64,7 @@ A curated compilation of Artifical Intelligence resources
 
 *   **[Another one bites the dust](https://dusthq.substack.com/)** - Insider takes for AI builders, tinkerers and enthusiasts – features, profiles, essays, lists, interviews, use cases and more. Click to read Another one bites on Dust, by kev, a Substack publication with hundreds of subscribers.
 
-## Developer and advanced topics
+## 💻 Developer and advanced topics
 
 ### MCPs
 
