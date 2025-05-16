@@ -43,6 +43,7 @@ A curated compilation of Artifical Intelligence resources
 *   **[Eugene Yan](https://eugeneyan.com)** - A blog about recommendation systems and AI-powered experiences that serve customers at scale.
 *   **[OpenAI Cookbook](https://cookbook.openai.com/)** - Open-source examples and guides for building with the OpenAI API. Browse a collection of snippets, advanced techniques and walkthroughs. Share your own examples and guides.
 *   **[The Hugging Face Blog](https://huggingface.co/blog)** - We're on a journey to advance and democratize artificial intelligence through open source and open science.
+*   **[Simon Willison](https://simonwillison.net)** - AI, LLMs, web engineering, open source, data science, Datasette, SQLite, Python and more.
 
 ### Industry news
 
@@ -62,7 +63,7 @@ A curated compilation of Artifical Intelligence resources
 
 ### AI productivity tools
 
-*   **[Another one bites the dust](https://dusthq.substack.com/)** - Insider takes for AI builders, tinkerers and enthusiasts – features, profiles, essays, lists, interviews, use cases and more. Click to read Another one bites on Dust, by kev, a Substack publication with hundreds of subscribers.
+*   **[Another one bites the dust](https://dusthq.substack.com/)** - Insider takes for AI builders, tinkerers and enthusiasts – features, profiles, essays, lists, interviews, use cases and more.
 
 ## 💻 Developer and advanced topics
 
